@@ -1,0 +1,767 @@
+[
+  {
+    "id": 1,
+    "phrase": "Please, I'm not saying you're a hero, but if you help me out, I might start a fan club in your honor."
+  },
+  {
+    "id": 2,
+    "phrase": "If I had a nickel for every time I begged like this, I could afford to *not* beg. But here we are."
+  },
+  {
+    "id": 3,
+    "phrase": "I'm not saying I'll worship the ground you walk on, but I might seriously consider it. Just help me out, okay?"
+  },
+  {
+    "id": 4,
+    "phrase": "Do this for me and I promise to stop sending you dramatic voice notes—well, at least reduce them."
+  },
+  {
+    "id": 5,
+    "phrase": "I'm begging you like a Netflix series begs for one more season: shamelessly and with unnecessary plot twists."
+  },
+  {
+    "id": 6,
+    "phrase": "I’d sell my soul for this—but honestly, the market's been slow, so I’m just asking you nicely instead."
+  },
+  {
+    "id": 7,
+    "phrase": "If you help me, I’ll write a song about you. It might be bad, but it’s the thought that counts, right?"
+  },
+  {
+    "id": 8,
+    "phrase": "On a scale of 1 to desperate, I’m currently serenading the universe. Help?"
+  },
+  {
+    "id": 9,
+    "phrase": "I’d say I owe you one, but let’s be real, I already owe you twelve."
+  },
+  {
+    "id": 10,
+    "phrase": "Please. Pretty please. Pretty-please-with-a-tiny-internal-breakdown-on-top."
+  },
+  {
+    "id": 11,
+    "phrase": "If you don’t help me, I’ll have to start selling inspirational quotes on Etsy. Save me from myself."
+  },
+  {
+    "id": 12,
+    "phrase": "I’m not desperate, I’m just… creatively pleading with style and a dash of existential panic."
+  },
+  {
+    "id": 13,
+    "phrase": "Grant me this and I shall henceforth refer to you as ‘The Generous Overlord.’"
+  },
+  {
+    "id": 14,
+    "phrase": "Look, I’ve already rehearsed my dramatic thank-you monologue. Don’t let it go to waste."
+  },
+  {
+    "id": 15,
+    "phrase": "I’d offer my firstborn, but I don’t have one. So... please?"
+  },
+  {
+    "id": 16,
+    "phrase": "Imagine me kneeling dramatically under a thunderstorm. That’s how badly I need this."
+  },
+  {
+    "id": 17,
+    "phrase": "Help me now and I’ll put you in my will. Probably in the ‘cool people’ section."
+  },
+  {
+    "id": 18,
+    "phrase": "Just think of the karma. You’ll basically be sainted by the universe."
+  },
+  {
+    "id": 19,
+    "phrase": "If I had pride, I wouldn’t be here, would I? Please."
+  },
+  {
+    "id": 20,
+    "phrase": "I’ll be so grateful, I might even let you pick the next group project partner."
+  },
+  {
+    "id": 21,
+    "phrase": "Please, before I start composing a begging haiku. You don’t want that."
+  },
+  {
+    "id": 22,
+    "phrase": "This is me, humbly crawling into your inbox with emotional jazz hands."
+  },
+  {
+    "id": 23,
+    "phrase": "Help me and I promise to stop singing my requests—unless you like it, then I’ll keep going."
+  },
+  {
+    "id": 24,
+    "phrase": "I’m on the verge of offering interpretive dance. Save us both the trauma."
+  },
+  {
+    "id": 25,
+    "phrase": "You're my only hope. And yes, I said that in my best Princess Leia voice."
+  },
+  {
+    "id": 26,
+    "phrase": "Do this and I’ll finally stop texting you memes at 3am. Probably."
+  },
+  {
+    "id": 27,
+    "phrase": "It’s not just a favor—it’s a legacy move. You’ll be talked about for generations."
+  },
+  {
+    "id": 28,
+    "phrase": "Grant me this wish and I shall never forget your kindness... or your Wi-Fi password."
+  },
+  {
+    "id": 29,
+    "phrase": "This is my final offer: eternal gratitude and semi-regular compliments."
+  },
+  { "id": 30, "phrase": "Please, for the love of coffee, just say yes." },
+  {
+    "id": 31,
+    "phrase": "I need this more than a cat needs to knock things off shelves. That’s serious."
+  },
+  {
+    "id": 32,
+    "phrase": "Please. I’m hanging by a thread, and that thread is 100% sarcasm."
+  },
+  {
+    "id": 33,
+    "phrase": "You don’t want to be the villain in my memoir. Help me out."
+  },
+  {
+    "id": 34,
+    "phrase": "If you do this, I’ll start referring to you exclusively as ‘The Chosen One.’"
+  },
+  {
+    "id": 35,
+    "phrase": "I’m not above groveling—clearly. Let’s just get this over with."
+  },
+  {
+    "id": 36,
+    "phrase": "Imagine how good this will look on your karma résumé."
+  },
+  {
+    "id": 37,
+    "phrase": "If not for me, do it for the fictional version of me in your head that deserves better."
+  },
+  {
+    "id": 38,
+    "phrase": "Do this and I’ll stop reenacting dramatic soap opera scenes in public. Maybe."
+  },
+  {
+    "id": 39,
+    "phrase": "I’d bake you cookies but I can’t, so instead: relentless gratitude."
+  },
+  {
+    "id": 40,
+    "phrase": "I have nothing to offer but memes and loyalty. Please?"
+  },
+  {
+    "id": 41,
+    "phrase": "Yes, this is a digital cry for help. And yes, I’m being dramatic on purpose."
+  },
+  {
+    "id": 42,
+    "phrase": "I’ll owe you so hard you’ll need a spreadsheet to keep track."
+  },
+  {
+    "id": 43,
+    "phrase": "It’s not begging if it’s wrapped in humor and mild desperation, right?"
+  },
+  {
+    "id": 44,
+    "phrase": "Please do it before I resort to interpretive smoke signals."
+  },
+  {
+    "id": 45,
+    "phrase": "Help me out and I’ll include you in my imaginary awards speech."
+  },
+  {
+    "id": 46,
+    "phrase": "I promise to stop sending emotional voice notes... okay, reduce them."
+  },
+  {
+    "id": 47,
+    "phrase": "Just say yes. I already planned the ‘thank you’ GIF."
+  },
+  {
+    "id": 48,
+    "phrase": "Look, we both know I don’t deserve it. But that never stopped anyone before."
+  },
+  {
+    "id": 49,
+    "phrase": "I’m emotionally prepared for rejection, but why not surprise me?"
+  },
+  { "id": 50, "phrase": "Please, my pride packed its bags hours ago." },
+  {
+    "id": 51,
+    "phrase": "If you do this, I’ll stop tagging you in unrelated inspirational posts. Maybe."
+  },
+  {
+    "id": 52,
+    "phrase": "I’m not begging, I’m strategically expressing intense enthusiasm."
+  },
+  {
+    "id": 53,
+    "phrase": "Please help before I start quoting motivational posters unironically."
+  },
+  {
+    "id": 54,
+    "phrase": "Do it for the children. Okay, not real children, just the inner child in me crying."
+  },
+  {
+    "id": 55,
+    "phrase": "Just imagine the moral superiority boost you’ll get by helping me."
+  },
+  {
+    "id": 56,
+    "phrase": "I’ll never ask for anything again. Except snacks. And help. Occasionally money. But besides that!"
+  },
+  {
+    "id": 57,
+    "phrase": "If this works, I swear to name my next houseplant after you."
+  },
+  {
+    "id": 58,
+    "phrase": "You say no, I cry. You say yes, I cry less. Your choice."
+  },
+  {
+    "id": 59,
+    "phrase": "Please, you’ll be my favorite human until my next emotional crisis."
+  },
+  {
+    "id": 60,
+    "phrase": "I’ll owe you so deeply you’ll need a debt collection agency to reclaim all the gratitude."
+  },
+  {
+    "id": 61,
+    "phrase": "I would’ve gone through official channels, but this felt more dramatic."
+  },
+  {
+    "id": 62,
+    "phrase": "Just imagine you’re the protagonist in a feel-good indie film. This is your moment to shine."
+  },
+  {
+    "id": 63,
+    "phrase": "If this was a movie, this is the part where you say yes and soft music plays."
+  },
+  {
+    "id": 64,
+    "phrase": "Help me, and I’ll stop pretending I have my life together in front of you."
+  },
+  {
+    "id": 65,
+    "phrase": "I’m one rejection away from dramatically staring out windows while it rains."
+  },
+  {
+    "id": 66,
+    "phrase": "You could say no, but then who’s really the villain here?"
+  },
+  {
+    "id": 67,
+    "phrase": "Please. Because adulting is hard and I’ve run out of coffee and willpower."
+  },
+  {
+    "id": 68,
+    "phrase": "Say yes, and I’ll finally stop using sarcasm as a coping mechanism. Haha. Just kidding. Unless?"
+  },
+  {
+    "id": 69,
+    "phrase": "If you help, I’ll make sure your name is whispered with reverence in imaginary friend circles."
+  },
+  {
+    "id": 70,
+    "phrase": "I’m basically sending this with puppy eyes. You just can’t see them."
+  },
+  {
+    "id": 71,
+    "phrase": "Please. The universe told me you were my last hope, and the universe never lies. Except sometimes."
+  },
+  {
+    "id": 72,
+    "phrase": "If you say yes, I’ll consider not dramatically narrating my life anymore. (No promises.)"
+  },
+  {
+    "id": 73,
+    "phrase": "Help now and I’ll give you first dibs on surviving the zombie apocalypse with me."
+  },
+  {
+    "id": 74,
+    "phrase": "My therapist says I need to ask for help more. Don’t make me prove them wrong."
+  },
+  {
+    "id": 75,
+    "phrase": "Please. Because my Plan B was crying in a blanket burrito, and I’d like to avoid that."
+  },
+  {
+    "id": 76,
+    "phrase": "You say yes, I ascend to a higher plane of joy. You say no, and I eat cereal for dinner. Again."
+  },
+  {
+    "id": 77,
+    "phrase": "If you do this for me, I’ll let you skip your turn in board games forever."
+  },
+  { "id": 78, "phrase": "Please. My imaginary dog’s happiness depends on it." },
+  {
+    "id": 79,
+    "phrase": "I’m not sure if I’m joking or desperate anymore, but I need this."
+  },
+  {
+    "id": 80,
+    "phrase": "You’ll be the wind beneath my wings—and the reason I don’t spiral today."
+  },
+  {
+    "id": 81,
+    "phrase": "Say yes, and I’ll finally stop manifesting solutions via interpretive dance."
+  },
+  {
+    "id": 82,
+    "phrase": "I’m asking you because Google told me not to handle this on my own."
+  },
+  {
+    "id": 83,
+    "phrase": "If kindness were currency, you’d be loaded after helping me."
+  },
+  {
+    "id": 84,
+    "phrase": "This is a humble plea dressed in humor to mask my crumbling sanity."
+  },
+  {
+    "id": 85,
+    "phrase": "Grant me this, and I’ll post a thank-you story so emotional it’ll make grown people weep."
+  },
+  {
+    "id": 86,
+    "phrase": "I’ve run out of coping mechanisms and snack food. Please."
+  },
+  {
+    "id": 87,
+    "phrase": "You help me today, and I’ll stop emotionally blackmailing you with jokes. For a while."
+  },
+  {
+    "id": 88,
+    "phrase": "Do it for the memes. Or just... for me. But mostly the memes."
+  },
+  {
+    "id": 89,
+    "phrase": "If you say no, I’ll respect your choice... loudly and dramatically."
+  },
+  {
+    "id": 90,
+    "phrase": "Please. I’m out of favors and dignity but still full of dreams and audacity."
+  },
+  {
+    "id": 91,
+    "phrase": "Say yes and I’ll write your name in the stars. Not literally. But like, in my journal."
+  },
+  {
+    "id": 92,
+    "phrase": "If you don’t help me, who will? My plant? My Spotify algorithm? Didn’t think so."
+  },
+  {
+    "id": 93,
+    "phrase": "Please. Not for me—for future me who will pretend this never happened."
+  },
+  {
+    "id": 94,
+    "phrase": "I’ll owe you more than a Netflix user owes their friend’s login info."
+  },
+  {
+    "id": 95,
+    "phrase": "Do this and I’ll stop sending you emotionally cryptic TikToks. Temporarily."
+  },
+  {
+    "id": 96,
+    "phrase": "You’re my only hope. I’ve already burned through my list of people less amazing than you."
+  },
+  {
+    "id": 97,
+    "phrase": "Please. If kindness had a face, it would be yours. If not, I’ll draw one."
+  },
+  {
+    "id": 98,
+    "phrase": "I’m just a simple soul, standing in front of another, asking them to make life easier."
+  },
+  {
+    "id": 99,
+    "phrase": "Say yes, and I’ll put you on my gratitude vision board."
+  },
+  {
+    "id": 100,
+    "phrase": "Help me now, and I’ll name my next minor success after you. Like ‘Project Alex’s Mercy’ or something."
+  },
+
+  {
+    "id": 101,
+    "phrase": "Please, I’m one inconvenience away from narrating my life like a tragic opera."
+  },
+  {
+    "id": 102,
+    "phrase": "Help me and I promise to dramatically whisper your name during award speeches I’ll never give."
+  },
+  {
+    "id": 103,
+    "phrase": "If you do this, I’ll consider forgiving you for that one time you ate my fries."
+  },
+  {
+    "id": 104,
+    "phrase": "Lend me your hand—or at least your Wi-Fi password and emotional support."
+  },
+  {
+    "id": 105,
+    "phrase": "I’m not begging. I’m just aggressively hoping you’ll say yes."
+  },
+  {
+    "id": 106,
+    "phrase": "This is your chance to do a good deed without leaving the couch."
+  },
+  { "id": 107, "phrase": "I’d sell my soul, but this favor would mean more." },
+  {
+    "id": 108,
+    "phrase": "Help me, and I’ll pretend I didn’t see your browser history."
+  },
+  {
+    "id": 109,
+    "phrase": "Say yes or I’ll start quoting Shakespeare in tears. Nobody wants that."
+  },
+  {
+    "id": 110,
+    "phrase": "I asked the universe for a sign, and all it said was 'ask you'."
+  },
+  {
+    "id": 111,
+    "phrase": "Please, my confidence is already held together by caffeine and delusion."
+  },
+  {
+    "id": 112,
+    "phrase": "I swear this favor comes with bonus karma and a free imaginary high five."
+  },
+  {
+    "id": 113,
+    "phrase": "This is me, humbling myself before you with the grace of a wounded raccoon."
+  },
+  { "id": 114, "phrase": "Be the hero of my oddly specific crisis." },
+  {
+    "id": 115,
+    "phrase": "If you say yes, I’ll stop tagging you in those weird group chats."
+  },
+  {
+    "id": 116,
+    "phrase": "I’m just a fool in love with your ability to fix things I broke."
+  },
+  {
+    "id": 117,
+    "phrase": "You say yes, I bake cookies in your honor. You say no, I burn them out of spite."
+  },
+  { "id": 118, "phrase": "This is your chance to flex your kindness muscles." },
+  {
+    "id": 119,
+    "phrase": "Please. Otherwise, I’m going to have to rely on luck. And that’s terrifying."
+  },
+  {
+    "id": 120,
+    "phrase": "Say yes, and I’ll delete that cringey selfie of yours I saved for blackmail."
+  },
+  {
+    "id": 121,
+    "phrase": "Please, it’s either this or me dramatically fake fainting in public."
+  },
+  {
+    "id": 122,
+    "phrase": "I already cried in three different fonts. Just say yes."
+  },
+  {
+    "id": 123,
+    "phrase": "Grant me this wish and I’ll stop threatening to sing during meetings."
+  },
+  {
+    "id": 124,
+    "phrase": "Please, I’m down to my last brain cell and it’s asking for help."
+  },
+  {
+    "id": 125,
+    "phrase": "If I had a nickel for every time I begged like this, I’d still need this favor."
+  },
+  {
+    "id": 126,
+    "phrase": "Just say yes and let’s pretend I never had to stoop to this level."
+  },
+  {
+    "id": 127,
+    "phrase": "Please. My emotional support playlist isn’t cutting it anymore."
+  },
+  {
+    "id": 128,
+    "phrase": "I’ll owe you one solid favor or seven mediocre ones. Your choice."
+  },
+  {
+    "id": 129,
+    "phrase": "Help me and I’ll finally stop pretending to understand spreadsheets."
+  },
+  {
+    "id": 130,
+    "phrase": "This is me asking nicely before I resort to interpretive begging."
+  },
+  {
+    "id": 131,
+    "phrase": "Please, before I turn this into a PowerPoint presentation of sadness."
+  },
+  {
+    "id": 132,
+    "phrase": "You could be the reason I stop panic-Googling everything."
+  },
+  {
+    "id": 133,
+    "phrase": "I’m manifesting your help. It’s cheaper than therapy."
+  },
+  {
+    "id": 134,
+    "phrase": "I will name my next existential crisis after you—out of gratitude, of course."
+  },
+  {
+    "id": 135,
+    "phrase": "Just say yes and I’ll stop threatening to send voice notes."
+  },
+  {
+    "id": 136,
+    "phrase": "Please. It’s either you or asking my group chat, and they’re unreliable at best."
+  },
+  {
+    "id": 137,
+    "phrase": "I solemnly swear to stop sending unhinged memes... for a week."
+  },
+  {
+    "id": 138,
+    "phrase": "If you help, I’ll finally admit you’re the responsible one between us."
+  },
+  {
+    "id": 139,
+    "phrase": "Please. I already tried solving this with vibes and failed."
+  },
+  {
+    "id": 140,
+    "phrase": "If you say yes, I’ll stop reenacting dramatic scenes in my head."
+  },
+  {
+    "id": 141,
+    "phrase": "Please help before I write an embarrassing song about it."
+  },
+  {
+    "id": 142,
+    "phrase": "Grant me this one thing and I’ll stop ghosting responsibilities. Maybe."
+  },
+  { "id": 143, "phrase": "You’re my Plan A, B, and mildly panicked Plan C." },
+  {
+    "id": 144,
+    "phrase": "Say yes, and I’ll stop blaming Mercury retrograde for everything."
+  },
+  {
+    "id": 145,
+    "phrase": "Please. I’m two breakdowns away from moving to the woods."
+  },
+  {
+    "id": 146,
+    "phrase": "I’m emotionally outsourcing this panic to you. Congratulations."
+  },
+  {
+    "id": 147,
+    "phrase": "I’ll owe you a thank-you note and possibly my soul."
+  },
+  {
+    "id": 148,
+    "phrase": "Please say yes. Even my imaginary therapist agrees it’s a good idea."
+  },
+  {
+    "id": 149,
+    "phrase": "If you help, I’ll make sure no one ever sees that TikTok draft I almost posted."
+  },
+  {
+    "id": 150,
+    "phrase": "This is your chance to be the main character in my redemption arc."
+  },
+  {
+    "id": 151,
+    "phrase": "Say yes and I’ll stop being weirdly dramatic about minor inconveniences."
+  },
+  {
+    "id": 152,
+    "phrase": "Please. My next move is asking my mom and we both know how that ends."
+  },
+  {
+    "id": 153,
+    "phrase": "I promise to stop using emojis as a cry for help. 🥲"
+  },
+  {
+    "id": 154,
+    "phrase": "If this doesn’t work, I’m turning to interpretive dance again."
+  },
+  {
+    "id": 155,
+    "phrase": "Please help or I’ll start live-tweeting my emotional spiral."
+  },
+  {
+    "id": 156,
+    "phrase": "You say yes, I stop stress-baking. You say no, cookies for days."
+  },
+  {
+    "id": 157,
+    "phrase": "This is me pretending to have it together while asking you to fix it."
+  },
+  { "id": 158, "phrase": "Please. I already Googled it and got scared." },
+  {
+    "id": 159,
+    "phrase": "You’re not just doing me a favor—you’re investing in chaos management."
+  },
+  {
+    "id": 160,
+    "phrase": "Help me and I’ll dedicate my next passive-aggressive playlist to you."
+  },
+  {
+    "id": 161,
+    "phrase": "Please. My coping mechanism is memes and they're failing me."
+  },
+  {
+    "id": 162,
+    "phrase": "If you help, I’ll stop pretending I understand taxes."
+  },
+  {
+    "id": 163,
+    "phrase": "Say yes and I’ll stop texting you vague 'we need to talk' messages."
+  },
+  {
+    "id": 164,
+    "phrase": "This favor? Small to you, life-altering to me. No pressure."
+  },
+  {
+    "id": 165,
+    "phrase": "Please. Or I’ll start asking my cat for advice again."
+  },
+  {
+    "id": 166,
+    "phrase": "Say yes and I’ll finally return that charger I borrowed in 2022."
+  },
+  {
+    "id": 167,
+    "phrase": "Help me or I’ll start writing haikus about my emotional damage."
+  },
+  {
+    "id": 168,
+    "phrase": "This is me, crawling into your DMs with a humble plea and too much anxiety."
+  },
+  {
+    "id": 169,
+    "phrase": "Please. My emotional support beverage isn't enough anymore."
+  },
+  {
+    "id": 170,
+    "phrase": "If you do this, I’ll stop subtweeting about needing help."
+  },
+  {
+    "id": 171,
+    "phrase": "I’m only asking because duct tape won’t fix this one."
+  },
+  {
+    "id": 172,
+    "phrase": "Say yes and I’ll pretend I didn’t panic-delete this message three times."
+  },
+  { "id": 173, "phrase": "Please help. Even autocorrect’s giving up on me." },
+  {
+    "id": 174,
+    "phrase": "I’m being so vulnerable right now, I deserve a gold star or this favor."
+  },
+  {
+    "id": 175,
+    "phrase": "I’ll owe you a debt only payable in memes and awkward gratitude."
+  },
+  {
+    "id": 176,
+    "phrase": "Please. I’m already in too deep emotionally to handle a no."
+  },
+  {
+    "id": 177,
+    "phrase": "Say yes and I’ll finally stop using 'vibes' as a strategy."
+  },
+  {
+    "id": 178,
+    "phrase": "If you help, I’ll finally stop starting projects at 2 a.m."
+  },
+  {
+    "id": 179,
+    "phrase": "Please, for the sake of whatever sanity I have left."
+  },
+  {
+    "id": 180,
+    "phrase": "Do it for the plot. This is your chance to be the quirky sidekick."
+  },
+  {
+    "id": 181,
+    "phrase": "Help me and I promise not to turn this into a trauma dump."
+  },
+  {
+    "id": 182,
+    "phrase": "Please say yes. My coping playlist is on repeat and I’m spiraling."
+  },
+  {
+    "id": 183,
+    "phrase": "If you say no, I’ll just dramatically walk into the sea. Your call."
+  },
+  { "id": 184, "phrase": "This is a cry for help disguised as casual banter." },
+  {
+    "id": 185,
+    "phrase": "Please. The fate of my peace of mind rests in your hands."
+  },
+  {
+    "id": 186,
+    "phrase": "Say yes, and I’ll stop asking the universe for signs via potato chips."
+  },
+  { "id": 187, "phrase": "You’re my last hope before I go full drama queen." },
+  {
+    "id": 188,
+    "phrase": "Please. My backup plan involves glitter and regret."
+  },
+  {
+    "id": 189,
+    "phrase": "If you help me, I promise not to use Comic Sans in serious documents again."
+  },
+  {
+    "id": 190,
+    "phrase": "Say yes or I’ll start pretending I’m in a Netflix drama."
+  },
+  { "id": 191, "phrase": "This is a loyalty test. Pass it by saying yes." },
+  {
+    "id": 192,
+    "phrase": "Please. Or I’ll use this as the reason I never trust again."
+  },
+  {
+    "id": 193,
+    "phrase": "If you say yes, I’ll stop making spreadsheets of my emotional breakdowns."
+  },
+  {
+    "id": 194,
+    "phrase": "Say yes and I’ll stop overthinking this for the next hour at least."
+  },
+  {
+    "id": 195,
+    "phrase": "Please help or I’ll take it as a personal attack and write poetry about it."
+  },
+  {
+    "id": 196,
+    "phrase": "Do this and I’ll finally admit you were right that one time in 2019."
+  },
+  {
+    "id": 197,
+    "phrase": "I’m one favor away from being marginally functional again."
+  },
+  {
+    "id": 198,
+    "phrase": "Say yes. I need this win more than I need validation from my group chat."
+  },
+  {
+    "id": 199,
+    "phrase": "Please. I promise to stop calling every inconvenience a ‘plot twist’."
+  },
+  {
+    "id": 200,
+    "phrase": "If you help, I’ll stop threatening to become a motivational speaker."
+  }
+]
