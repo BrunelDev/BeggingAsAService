@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure--6tq#@ime_j@!@+gxa5&01mj#$@ev!haf@e*0n0koq$y0rs-$w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["beggingasaservice.onrender.com"]
 
 
 # Application definition
@@ -37,6 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    #third-party apps
+    "rest_framework",
+    "gunicorn",
 ]
 
 MIDDLEWARE = [
